@@ -19,3 +19,6 @@ Git Collaboration Basics Training
   - Updte your system with `git pull origin master`
   - `git fetch --prune --all`: This will clean up all your references on all your remotes
   - `branch -d <branch_name>`: This will delete a branch
+
+- Merging branches locally
+  - `merge <branch>`: Merges the `<branch>` to the current branch
