@@ -1,5 +1,4 @@
 # 2020-02-26-git_collaboration
-Git Collaboration Basics Training
 
 - `clone`: "Downloading" a repository from cloud to our local computer
   - You only need to do this once just like the `init` command
@@ -22,3 +21,5 @@ Git Collaboration Basics Training
 
 - Merging branches locally
   - `merge <branch>`: Merges the `<branch>` to the current branch
+
+- Title removal in the master branch
