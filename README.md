@@ -24,3 +24,4 @@ This is the new title
   - `merge <branch>`: Merges the `<branch>` to the current branch
 
 - Title removal in the master branch
+- `rebase` and `cherry-pick` are ways to incorporate other commits in current history or to re-write history
